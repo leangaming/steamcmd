@@ -1,5 +1,5 @@
 FROM vimalathithen/alpine-glibc-x86:latest
-LABEL maintainer "Karolis Stasaitis <stkarolis@gmail.com>"
+LABEL maintainer "Karolis Stasaitis <contact@carlossless.io>"
 
 RUN adduser steam -D
 
